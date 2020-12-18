@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: ge.lis.tool
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle
+features: [annotation-api, app-name, config4k, gradle, jdbc-hikari, junit, kotlin, kotlin-extension-functions, logback, mysql, picocli, picocli-junit, picocli-kotlin-application, readme, shade, sql-jdbi, testcontainers]
